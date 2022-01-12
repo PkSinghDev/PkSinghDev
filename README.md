@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PkSinghDev
+- 👋 Hi, I’m Pushpendra Singh (@PkSinghDev)
 - 👀 I’m interested in Machine Learning & Deep Learning
 - 🌱 I’m currently learning RNNs, LSTMs, & Reinforcement Learning
 
