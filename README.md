@@ -16,9 +16,9 @@ I am a 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐞�
 ➡️ Software Engineering Tools: 𝐆𝐢𝐭 and 𝐆𝐢𝐭𝐡𝐮𝐛<br>
 <br>
 👉Profiles<br>
-💻 𝗖𝗼𝗱𝗲𝗰𝗵𝗲𝗳 : [Codechef Profile](𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘤𝘰𝘥𝘦𝘤𝘩𝘦𝘧.𝘤𝘰𝘮/𝘶𝘴𝘦𝘳𝘴/𝘱𝘬𝘴𝘪𝘯𝘨𝘩123) (𝑯𝒊𝒈𝒉𝒆𝒔𝒕 𝑹𝒂𝒕𝒊𝒏𝒈 : 1634)<br>
-💻 𝐆𝐢𝐭𝐡𝐮𝐛 : [Github Profile](𝘩𝘵𝘵𝘱𝘴://𝘨𝘪𝘵𝘩𝘶𝘣.𝘤𝘰𝘮/𝘗𝘬𝘚𝘪𝘯𝘨𝘩𝘋𝘦𝘷)<br>
-💻 𝐌𝐞𝐝𝐢𝐮𝐦 : [Medium Profile](𝘩𝘵𝘵𝘱𝘴://𝘮𝘦𝘥𝘪𝘶𝘮.𝘤𝘰𝘮/@𝘱𝘶𝘴𝘩𝘱𝘦𝘯𝘥𝘳𝘢𝘴𝘪𝘯𝘨𝘩𝘤𝘰𝘥) <br>
+💻 𝗖𝗼𝗱𝗲𝗰𝗵𝗲𝗳 : [Codechef Profile](https://www.codechef.com/users/pksingh123) (𝑯𝒊𝒈𝒉𝒆𝒔𝒕 𝑹𝒂𝒕𝒊𝒏𝒈 : 1634)<br>
+💻 𝐆𝐢𝐭𝐡𝐮𝐛 : [Github Profile](https://github.com/PkSinghDev) <br>
+💻 𝐌𝐞𝐝𝐢𝐮𝐦 : [Medium Profile](https://medium.com/@pushpendrasinghcod) <br>
 <br>
 👉I’m currently learning RNNs, LSTMs, & Reinforcement Learning<br>
 <br>
